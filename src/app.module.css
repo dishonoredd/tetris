@@ -1,0 +1,13 @@
+.root {
+    display: grid;
+    grid-template-columns: repeat(10, 20px);
+    grid-template-rows: repeat(20, 20px);
+}
+
+.gridElement {
+    border: 1px solid #000;
+}
+
+.oShape {
+    background-color: yellow;
+}
